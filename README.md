@@ -1,5 +1,6 @@
 ### THIS IS A CLONE TO FLAPPYBIRD GAME DEVELOPED BY NGUYEN HA DONG. 
 ALL THE SPRITES I GOT WAS FROM THIS SITE: https://flappybird.fandom.com/wiki/Sprites
+
 Instructions and Prerequisites:
 - You should have python installed in your computer and a proper IDE to run the code.
 - You should also have already installed PYGAME library in your IDE.
